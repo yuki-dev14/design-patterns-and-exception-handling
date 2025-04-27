@@ -5,7 +5,6 @@
 #include <fstream>      //log orders
 using namespace std;
 
-// Limits the maximum number of products, cart items, and orders
 const int MAX_PRODUCTS = 100;
 const int MAX_CART_ITEMS = 50;
 const int MAX_ORDERS = 50;
